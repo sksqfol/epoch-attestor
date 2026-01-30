@@ -141,8 +141,6 @@ The protocol does not assume a single trusted attestor.
 This module is under active development.  
 Interfaces may evolve prior to a production release.
 
-**Do not deploy to mainnet without a complete verification layer.**
-
 ---
 
 ## Why This Design Works
